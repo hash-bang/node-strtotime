@@ -1,0 +1,24 @@
+{
+  "name": "strtotime",
+  "version": "1.0.0",
+  "description": "Node StrToTime function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hash-bang/node-strtotime.git"
+  },
+  "keywords": [
+    "strtotime",
+    "time",
+    "date"
+  ],
+  "author": "Matt Carter <m@ttcarter.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hash-bang/node-strtotime/issues"
+  },
+  "homepage": "https://github.com/hash-bang/node-strtotime#readme"
+}
